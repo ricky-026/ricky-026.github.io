@@ -1,0 +1,63 @@
+
+body{
+	background-color: #5c615f;
+}
+#myCarouselContainer{
+
+	padding-top: 40px;
+	background-image: url("background.jpg");
+	background-size: cover;
+	width: 100%;
+	max-height: 700px;
+}
+.item img{
+	margin: auto;	
+	max-height= 300px;
+	max-width = 300px;
+	width: 50%;
+	height: 50%
+}
+
+.item active img{
+	margin: auto;	
+}
+#aboutMe{
+	
+	padding-top:50px;
+	height:700px;
+	background-color: #5c615f;
+	color: white;
+	
+}
+
+#aboutMeCenter{
+
+	height: 700px;
+	width: 500px;
+}
+#language{
+	padding-top:50px;
+	height:700px;
+	background-color:  #737373;
+	color: white;
+}
+
+#projects{
+	
+	padding-top:50px;
+	height:700px;
+	background-color: #5c615f;
+	color: white;
+	
+}
+
+
+#otherExperience{
+	
+	padding-top:50px;
+	height:700px;
+	background-color: #737373;
+	color: white;
+}
+
+
